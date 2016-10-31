@@ -1,0 +1,26 @@
+{
+  "name": "promise-talk",
+  "version": "1.0.0",
+  "description": "Talk sobre promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsonbittencourt/promise-talk.git"
+  },
+  "keywords": [
+    "promise",
+    "talk"
+  ],
+  "author": "robsonbittencourt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robsonbittencourt/promise-talk/issues"
+  },
+  "homepage": "https://github.com/robsonbittencourt/promise-talk#readme",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
