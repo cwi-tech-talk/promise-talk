@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "command": "node",
+  "isShellCommand": true,
+  "tasks": [
+    {
+      "taskName": "runFile",
+      "isBuildCommand": true,
+      "suppressTaskName": true,
+      "showOutput": "always",
+      "args": ["${file}"]
+    }
+  ]
+}
