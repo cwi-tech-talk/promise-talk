@@ -3,5 +3,5 @@
 const promise = require ('./promise-example');
 
 promise.doSomethingAsync().then(function(result) {
-  console.log(result)
+  console.log(result);
 });
