@@ -11,7 +11,7 @@ function doSomethingAsync() {
   
   setTimeout(() => {
     deferred.resolve('Operação com sucesso');
-  }, 5000);
+  }, 3000);
 
   return deferred.promise;
 }
