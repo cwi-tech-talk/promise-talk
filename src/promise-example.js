@@ -1,6 +1,6 @@
 'use strict'
 
-const q = require ('q');
+var q = require ('q');
 
 exports.doSomethingAsync = doSomethingAsync;
 

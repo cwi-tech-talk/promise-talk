@@ -1,6 +1,6 @@
 'use strict';
 
-const promise = require ('./promise-example');
+var promise = require ('./promise-example');
 
 var asynResult = promise.doSomethingAsync();
 
