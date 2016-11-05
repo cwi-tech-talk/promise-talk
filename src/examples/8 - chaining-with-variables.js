@@ -7,7 +7,6 @@ var outputPromise = promise.getUsername()
     .then(getAge)
     .then(print);
 
-
 function getUser(username) {
   return promise.getUser(username);
 }
