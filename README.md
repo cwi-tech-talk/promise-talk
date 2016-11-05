@@ -17,3 +17,9 @@
 ##[Encadeamento com variáveis](src/examples/8-chaining-with-variables.js)
 
 ##[Método All](src/examples/9-all.js)
+
+##Fontes
+
+- [q](https://github.com/kriskowal/q)
+- [MDN - Promise](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
