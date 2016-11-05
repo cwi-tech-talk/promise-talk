@@ -8,13 +8,17 @@ exports.getUsername = getUsername;
 exports.getUser = getUser;
 exports.getAge = getAge;
 
-function doSomethingAsync() {
+function doSomethingAsync(aditionalText) {
   var deferred = q.defer();
 
   console.log('Início da operação');
   
   setTimeout(() => {
-    deferred.resolve('Operação com sucesso');
+    if (aditionalText) {
+      deferred.resolve('Operação com sucesso ' + aditionalText);
+    } else {
+      deferred.resolve('Operação com sucesso');
+    }
   }, 3000);
 
   return deferred.promise;
