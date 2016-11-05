@@ -1,4 +1,5 @@
-# promise-talk
+# Promise Talk
+Esta talk tem por objetivo dar um overview sobre Promises, mostrando desde o básico até as features que estão por vir no ES7.
 
 ##[Básico](src/examples/1-basic.js)
 
