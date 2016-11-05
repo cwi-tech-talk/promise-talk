@@ -8,7 +8,7 @@
       "isBuildCommand": true,
       "suppressTaskName": true,
       "showOutput": "always",
-      "args": ["${file}"]
+      "args": ["--harmony-async-await", "${file}"]
     }
   ]
 }
