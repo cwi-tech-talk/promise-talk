@@ -1,6 +1,8 @@
 # Promise Talk
 Esta talk tem por objetivo dar um overview sobre Promises, mostrando desde o básico até as features que estão por vir no ES7.
 
+##[Callback](src/examples/0-callback.js)
+
 ##[Básico](src/examples/1-basic.js)
 
 ##[Erros](src/examples/2-basic-error.js)
